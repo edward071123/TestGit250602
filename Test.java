@@ -17,4 +17,6 @@ public class Test {
      // origin change #6
 
     // local change #6
+
+    // origin change #7
 } 
