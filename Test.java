@@ -3,4 +3,5 @@ public class Test {
     // origin change #1
 
     // local change #2
+    // origin change #2
 } 
